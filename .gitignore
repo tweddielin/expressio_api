@@ -82,3 +82,7 @@ celerybeat-schedule
 venv/
 ENV/
 
+# Model
+reddit_doc2vec.model
+reddit_doc2vec.model.syn1.npy
+reddit_doc2vec.model.syn0.npy
