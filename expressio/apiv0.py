@@ -8,7 +8,7 @@ from .apis.track import api as track
 
 blueprint = Blueprint('api', __name__, url_prefix='/api/v0')
 api = Api(blueprint,
-        title='Expressio',
+        title='Expressivo',
         version='0.1',
         description='API service for connecting story-tellers, artists and audience together.'
         )
